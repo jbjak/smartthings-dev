@@ -1,2 +1,2 @@
 # smartthings-dev
-Smartthings Hacking
+Smartthings Hacking by @jbjak
